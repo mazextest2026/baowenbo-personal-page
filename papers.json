@@ -1,0 +1,13 @@
+{
+  "papers": [
+    {
+      "title": "Sample Paper",
+      "authors": ["Baowenbo"],
+      "status": "preprint",
+      "conferences": [],
+      "github_repos": [],
+      "emails_analysis": "Email analysis completed. Found conference notifications but no specific acceptance notifications with author name (Dr. Baowenbo) found.",
+      "updated_at": "2026-05-29"
+    }
+  ]
+}
